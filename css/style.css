@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#change-color {
+    background-color: blue;
+    height: 100vh;
+}
+
+.headig {
+    color: black;
+    padding: 50px 0;
+}
+
+.btn-color {
+    display: inline-block;
+    margin-left: 45%;
+}
